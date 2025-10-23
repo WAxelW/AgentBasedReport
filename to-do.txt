@@ -1,0 +1,4 @@
+- Add source filter
+- Tweak HTML
+- Implement mailchimp sending
+- remove reminder list

@@ -1,0 +1,178 @@
+{
+    "government_official_stats_public_agencies": [
+        {"domain": "scb.se", "notes": "Statistics Sweden"},
+        {"domain": "regeringen.se", "notes": "Swedish government"},
+        {"domain": "riksdagen.se", "notes": "Swedish parliament"},
+        {"domain": "riksbank.se", "notes": "Swedish central bank"},
+        {"domain": "skatteverket.se", "notes": "Swedish Tax Agency"},
+        {"domain": "tillvaxtverket.se", "notes": "Swedish Agency for Economic and Regional Growth"},
+        {"domain": "vinnova.se", "notes": "Sweden's innovation agency"},
+        {"domain": "verksamt.se", "notes": "Business and registrations portal"},
+        {"domain": "polisen.se", "notes": "Police, crime stats"},
+        {"domain": "arbetsformedlingen.se", "notes": "Public employment service"},
+        {"domain": "folkhalsomyndigheten.se", "notes": "Public Health Agency"},
+        {"domain": "socialstyrelsen.se", "notes": "National Board of Health and Welfare"},
+        {"domain": "transportstyrelsen.se", "notes": "Transport Agency"},
+        {"domain": "trafikverket.se", "notes": "Transport Administration"},
+        {"domain": "energimyndigheten.se", "notes": "Swedish Energy Agency"},
+        {"domain": "svenskakraftnat.se", "notes": "Grid operator"},
+        {"domain": "naturvardsverket.se", "notes": "Environment Protection Agency"},
+        {"domain": "lantmateriet.se", "notes": "Land Survey / geodata"},
+        {"domain": "prv.se", "notes": "Swedish Patent and Registration Office"},
+        {"domain": "riksgalden.se", "notes": "National Debt Office"},
+        {"domain": "kriminalvarden.se", "notes": "Correctional services"}
+    ],
+    "financial_regulators_and_markets": [
+        {"domain": "riksbank.se", "notes": "Central bank"},
+        {"domain": "fi.se", "notes": "Finansinspektionen, financial regulator"},
+        {"domain": "riksgalden.se", "notes": "National Debt Office"},
+        {"domain": "nasdaqomxnordic.com", "notes": "Stock exchange / market data"},
+        {"domain": "finansportalen.se", "notes": "Consumer financial info"},
+        {"domain": "swedishbankers.se", "notes": "Swedish Bankers' Association"}
+    ],
+    "swedish_business_and_finance_media": [
+        {"domain": "di.se", "notes": "Dagens Industri"},
+        {"domain": "svd.se", "notes": "Svenska Dagbladet"},
+        {"domain": "dn.se", "notes": "Dagens Nyheter"},
+        {"domain": "affarsvarlden.se", "notes": "Business magazine"},
+        {"domain": "breakit.se", "notes": "Tech and startup news"},
+        {"domain": "omni.se", "notes": "News aggregator"},
+        {"domain": "thelocal.se", "notes": "English-language Swedish news"},
+        {"domain": "privataaffarer.se", "notes": "Personal finance"},
+        {"domain": "e24.se", "notes": "Business news"}
+    ],
+    "international_business_media_and_data": [
+        {"domain": "financialtimes.com", "notes": "Global business coverage"},
+        {"domain": "bloomberg.com", "notes": "Markets and news"},
+        {"domain": "reuters.com", "notes": "Newswire"},
+        {"domain": "wsj.com", "notes": "Wall Street Journal"},
+        {"domain": "economist.com", "notes": "Analysis and commentary"},
+        {"domain": "forbes.com", "notes": "Business media"},
+        {"domain": "statista.com", "notes": "Market data aggregator"},
+        {"domain": "tradingeconomics.com", "notes": "Macro indicators"},
+        {"domain": "morningstar.com", "notes": "Investment research"}
+    ],
+    "global_and_european_institutions_and_data": [
+        {"domain": "eurostat.ec.europa.eu", "notes": "EU statistics"},
+        {"domain": "oecd.org", "notes": "OECD data and analysis"},
+        {"domain": "worldbank.org", "notes": "Global development data"},
+        {"domain": "imf.org", "notes": "Macro and country reports"},
+        {"domain": "ec.europa.eu", "notes": "European Commission / policy and research"},
+        {"domain": "un.org", "notes": "United Nations datasets"},
+        {"domain": "ourworldindata.org", "notes": "Open data visualizations"}
+    ],
+    "consulting_firms_and_industry_research": [
+        {"domain": "mckinsey.com", "notes": "McKinsey insights (Sweden presence)"},
+        {"domain": "bcg.com", "notes": "Strategy reports"},
+        {"domain": "bain.com", "notes": "Industry research"},
+        {"domain": "deloitte.com", "notes": "Consulting and reports"},
+        {"domain": "pwc.com", "notes": "Industry studies"},
+        {"domain": "kpmg.com", "notes": "Reports and data"},
+        {"domain": "accenture.com", "notes": "Industry insights"},
+        {"domain": "ey.com", "notes": "Advisory reports"},
+        {"domain": "gartner.com", "notes": "Technology research"},
+        {"domain": "forrester.com", "notes": "Market research"},
+        {"domain": "chiefmartec.com", "notes": "Martech research"}
+    ],
+    "swedish_think_tanks_and_research_centres": [
+        {"domain": "sns.se", "notes": "SNS (economics and policy)"},
+        {"domain": "timbro.se", "notes": "Free-market think tank"},
+        {"domain": "arenaide.se", "notes": "Progressive policy institute"},
+        {"domain": "ratio.se", "notes": "Economic research"},
+        {"domain": "ifau.se", "notes": "Labour market & education evaluation"},
+        {"domain": "mistra.org", "notes": "Research foundations"},
+        {"domain": "rise.se", "notes": "Research Institutes of Sweden"},
+        {"domain": "kth.se", "notes": "Royal Institute of Technology"},
+        {"domain": "hhs.se", "notes": "Stockholm School of Economics"},
+        {"domain": "su.se", "notes": "Stockholm University"},
+        {"domain": "ki.se", "notes": "Karolinska Institutet"}
+    ],
+    "innovation_startups_and_investment_hubs": [
+        {"domain": "business-sweden.com", "notes": "Business Sweden / Invest in Sweden"},
+        {"domain": "stockholmbusinessregion.com", "notes": "Stockholm Business Region"},
+        {"domain": "almi.se", "notes": "Funding and advisory"},
+        {"domain": "sting.co", "notes": "STING incubator"},
+        {"domain": "investstockholm.com", "notes": "Invest Stockholm resources"},
+        {"domain": "dealroom.co", "notes": "Startup/VC data"},
+        {"domain": "svca.se", "notes": "Swedish Venture Capital Association"}
+    ],
+    "sector_regulators_associations_and_industry_data": [
+        {"domain": "svensktnaringsliv.se", "notes": "Confederation of Swedish Enterprise"},
+        {"domain": "teknikforetagen.se", "notes": "Industry employers"},
+        {"domain": "svenskenergi.se", "notes": "Energy sector association"},
+        {"domain": "trafikanalys.se", "notes": "Transport analysis"},
+        {"domain": "byggforetagen.se", "notes": "Construction industry"},
+        {"domain": "svenskfast.se", "notes": "Real estate sector data"},
+        {"domain": "lakemedelsverket.se", "notes": "Medical products agency"},
+        {"domain": "livsmedelsverket.se", "notes": "Food authority"}
+    ],
+    "labour_education_and_social_policy": [
+        {"domain": "arbetsgivarverket.se", "notes": "Employer organisation"},
+        {"domain": "tco.se", "notes": "Trade union confederation"},
+        {"domain": "lo.se", "notes": "LO union federation"},
+        {"domain": "saco.se", "notes": "SACO academic unions"},
+        {"domain": "skolverket.se", "notes": "National Agency for Education"}
+    ],
+    "sustainability_environment_climate": [
+        {"domain": "naturvardsverket.se", "notes": "Environmental protection agency"},
+        {"domain": "klimatpolitiskaradet.se", "notes": "Climate Policy Council"},
+        {"domain": "energimyndigheten.se", "notes": "Energy agency"}
+    ],
+    "legal_regulatory_and_courts": [
+        {"domain": "lagrummet.se", "notes": "Legal database"},
+        {"domain": "domstol.se", "notes": "Courts information"},
+        {"domain": "riksdagen.se", "notes": "Laws and bills"}
+    ],
+    "health_biotech_and_pharma": [
+        {"domain": "socialstyrelsen.se", "notes": "Health statistics and guidance"},
+        {"domain": "folkhalsomyndigheten.se", "notes": "Public health authority"},
+        {"domain": "ema.europa.eu", "notes": "European Medicines Agency"},
+        {"domain": "ki.se", "notes": "Karolinska Institutet research"},
+        {"domain": "pubmed.ncbi.nlm.nih.gov", "notes": "Medical literature"}
+    ],
+    "cybersecurity_resilience": [
+        {"domain": "msb.se", "notes": "Civil Contingencies Agency"},
+        {"domain": "forsvarsmakten.se", "notes": "Defence analyses"},
+        {"domain": "cert.se", "notes": "Swedish CERT"}
+    ],
+    "academic_research_and_journals": [
+        {"domain": "scholar.google.com", "notes": "Academic search"},
+        {"domain": "ssrn.com", "notes": "Working papers"},
+        {"domain": "jstor.org", "notes": "Academic archives"},
+        {"domain": "sciencedirect.com", "notes": "Elsevier journals"},
+        {"domain": "springer.com", "notes": "Academic publisher"},
+        {"domain": "nature.com", "notes": "Science journals"},
+        {"domain": "hbr.org", "notes": "Harvard Business Review"}
+    ],
+    "financial_market_and_company_data_providers": [
+        {"domain": "bis.org", "notes": "Bank for International Settlements"},
+        {"domain": "refinitiv.com", "notes": "Market data"},
+        {"domain": "bloomberg.com", "notes": "Market terminals and news"},
+        {"domain": "creditsafe.com", "notes": "Company credit data"},
+        {"domain": "bisnode.com", "notes": "Business data"}
+    ],
+    "open_data_apis_and_developer_portals": [
+        {"domain": "oppnadata.se", "notes": "Swedish open data portal (example)"},
+        {"domain": "dataportal.gov.se", "notes": "Government open data"},
+        {"domain": "scb.se/api", "notes": "SCB API"},
+        {"domain": "eurostat.ec.europa.eu", "notes": "Eurostat API"}
+    ],
+    "nordic_and_regional_comparators": [
+        {"domain": "norden.org", "notes": "Nordic Council"},
+        {"domain": "ssb.no", "notes": "Statistics Norway"},
+        {"domain": "dst.dk", "notes": "Statistics Denmark"},
+        {"domain": "stat.fi", "notes": "Statistics Finland"}
+    ],
+    "local_stockholm_and_regional_sources": [
+        {"domain": "stockholm.se", "notes": "City of Stockholm"},
+        {"domain": "regionstockholm.se", "notes": "Region Stockholm"},
+        {"domain": "nasdaqomxnordic.com", "notes": "Nasdaq Nordic / OMX"}
+    ],
+    "aggregators_and_practical_secondary_sources": [
+        {"domain": "omni.se", "notes": "News aggregator"},
+        {"domain": "breakingviews.ft.com", "notes": "FT commentary"},
+        {"domain": "alphavantage.co", "notes": "APIs for market data"},
+        {"domain": "kaggle.com", "notes": "Datasets"},
+        {"domain": "github.com", "notes": "Open research code"}
+    ]
+}

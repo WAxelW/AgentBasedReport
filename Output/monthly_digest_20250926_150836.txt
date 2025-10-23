@@ -1,0 +1,437 @@
+Monthly Business Digest - September 2025
+============================================================
+
+Period: September 2025
+Generated: 2025-09-26T15:08:36.629430
+Searches conducted: 8
+Total results: 96
+Word count: 585
+Trusted sources only: False
+
+## Digest Content
+Executive Summary
+Swedish and Nordic markets saw a flurry of policy and corporate moves in September 2025 that shift near‑term demand and strategic priorities: an election‑year fiscal stimulus (tax cuts, temporary food VAT cut) is aimed at boosting consumption, while major corporate asset moves — notably Lyten’s purchase of Northvolt assets and EQT’s sale process for GlobalConnect — reshape industrial and digital infrastructure landscapes. Central bank positioning remains accommodative but data‑dependent. (2 sentences)
+
+Key Developments
+- Election‑year stimulus: Swedish government unveiled an ~80 billion SEK package and specific tax cuts to spur growth ahead of 2026 elections (details below) [1,8].  
+- Targeted consumer relief: VAT on food will be temporarily halved to 6% from April 2026 to Dec 2027, with estimated household savings highlighted by government [2].  
+- Battery industry shake‑up: U.S. startup Lyten has acquired most Northvolt assets and is rehiring former executives, but faces short‑term credibility questions from carmakers [5,4,6].  
+- Digital infrastructure M&A: EQT has launched a sale process for GlobalConnect, a major Nordic fibre and data‑centre business, attracting strategic and financial interest at an ~€8bn valuation tag reported [7,9].
+
+Main body — notable developments (bullet summaries with references)
+- Sweden’s 2026 budget package: Government promises an 80bn SEK boost combining tax cuts and higher military spending; described as an election‑year “bonanza” intended to speed up sluggish growth [1].  
+- Broad tax measures: Announced cuts include income/pension/electricity relief—multiple tranches (~30bn SEK reported for some measures) to support households and lower living costs [8].  
+- Temporary food VAT cut: VAT on most food items will fall from 12% to 6% between April 2026–Dec 2027; government estimates meaningful annual savings for families and pensioner couples [2,10].  
+- Riksbank stance: The central bank cut its policy rate to 2% in June and Reuters polling ahead of the Sept 23 meeting showed markets expect a hold but leave open the possibility of cuts later in the year pending inflation [11,6].  
+- Northvolt → Lyten transition: Lyten’s acquisition of Northvolt assets (Sweden & Germany) is progressing; Lyten has rehired former Northvolt execs to run Swedish operations, signalling continuity but also questions around supplier/carmaker confidence and scaling [5,3,6].  
+- EQT / GlobalConnect sale: EQT commenced a formal sale of GlobalConnect — one of the region’s largest fibre/data‑centre platforms — potentially catalysing consolidation and private‑capital activity in Nordic digital infrastructure [7,9].  
+- Market signals for corporates: Policy stimulus plus an eventual easing bias at the central bank may lift consumer demand and corporate M&A appetite, but supply‑side constraints (energy, skilled labour) remain relevant for industrial recoveries [1,2,11].
+
+Strategic Implications (actionable insights for clients)
+- For consumer‑facing companies: accelerate price/offer optimisation and plan promotional calendars around the VAT window (Apr 2026–Dec 2027) to capture increased disposable income. (Effort: low‑medium) [2].  
+- For suppliers & OEMs in EV/battery value chains: engage Lyten and ex‑Northvolt teams proactively to clarify supply, quality standards and timelines — prepare contingency sourcing. (Effort: medium‑high) [5,3].  
+- For digital/telecom investors and corporates: review exposure to fibre and edge data‑centre capacity — EQT’s process may create buying opportunities or partnership options. (Effort: medium) [7,9].  
+- For finance and treasury teams: model cash‑flow sensitivity to tax and transfer‑price changes from the budget and maintain lines given M&A volatility. (Effort: low‑medium) [1,8].  
+At Differ we can run a short prioritisation workshop to estimate potential upside and implementation timelines for the above (recommended next step).
+
+Source References
+1) https://www.reuters.com/world/tax-cuts-more-military-spending-swedens-85-bln-election-year-budget-2025-09-22/  
+2) https://www.reuters.com/markets/europe/sweden-temporarily-halve-food-vat-election-year-budget-2025-09-04/  
+3) https://www.reuters.com/business/energy/us-startup-lyten-buy-bankrupt-european-battery-maker-northvolt-2025-08-07/  
+4) https://lyten.com/2025/08/07/lyten-to-acquire-all-remaining-northvolt-assets-in-sweden-and-germany/  
+5) https://www.reuters.com/business/finance/lyten-brings-back-northvolt-executives-following-asset-acquisition-2025-09-04/  
+6) https://www.reuters.com/business/finance/battery-startup-lyten-yet-convince-carmakers-over-northvolt-revival-2025-08-25/  
+7) https://www.reuters.com/technology/buyout-group-eqt-kicks-off-sale-nordic-broadband-data-centre-business-ft-reports-2025-09-19/  
+8) https://www.reuters.com/world/swedish-government-announces-3-billion-tax-cuts-2026-2025-09-08/  
+9) https://www.ft.com/content/6988198b-2954-4796-9da4-598ca8385b09  
+10) https://www.vatupdate.com/2025/09/07/sweden-to-reduce-the-vat-rate-on-foodstuffs-from-12-to-6-as-of-1-april-2026/  
+11) https://www.reuters.com/business/finance/swedish-central-bank-seen-hold-next-week-rate-cut-not-ruled-out-reuters-poll-2025-09-19/  
+12) https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/policy-rate-is-cut-to-2-per-cent/
+
+## Source References
+All information sourced from verified professional publications:
+
+1. Sweden - Wikipedia
+   URL: https://en.wikipedia.org/wiki/Sweden
+   Query: "Sweden business news September 2025"
+
+2. Sweden | History, Flag, Map, Population, & Facts | Britannica
+   URL: https://www.britannica.com/place/Sweden
+   Query: "Sweden business news September 2025"
+
+3. Key facts about Sweden
+   URL: https://sweden.se/life/society/key-facts-about-sweden
+   Query: "Sweden business news September 2025"
+
+4. Sweden 's official website for tourism and travel information
+   URL: https://visitsweden.com/
+   Query: "Sweden business news September 2025"
+
+5. Sweden Maps & Facts - World Atlas
+   URL: https://www.worldatlas.com/maps/sweden
+   Query: "Sweden business news September 2025"
+
+6. Sweden | Culture, Facts & Travel | - CountryReports
+   URL: https://www.countryreports.org/country/Sweden.htm
+   Query: "Sweden business news September 2025"
+
+7. Sweden - The World Factbook
+   URL: https://www.cia.gov/the-world-factbook/countries/sweden/
+   Query: "Sweden business news September 2025"
+
+8. The History of Sweden : A Timeline of the Swedish People
+   URL: https://nordicperspective.com/history/timeline-history-sweden
+   Query: "Sweden business news September 2025"
+
+9. Sweden Aims To Become The First Medically Prescribed Wellness …
+   URL: https://www.forbes.com/sites/kaitlynmcinnis/2025/09/24/sweden-aims-to-become-the-first-medically-prescribed-wellness-destination/
+   Query: "Sweden business news September 2025"
+
+10. Hej! Welcome to sweden .se – the official website of Sweden
+   URL: https://sweden.se/
+   Query: "Sweden business news September 2025"
+
+11. Is Sweden property market bubble bursting? (Sept 2025)
+   URL: https://investropa.com/blogs/news/sweden-property-market-bubble-bursting
+   Query: "Sweden business news September 2025"
+
+12. Sweden unveils bonanza budget to boost growth with tax ...
+   URL: https://www.reuters.com/world/tax-cuts-more-military-spending-swedens-85-bln-election-year-budget-2025-09-22/
+   Query: "Sweden business news September 2025"
+
+13. Sweden unveils bonanza budget to boost growth with tax cuts, military spending, before election | Reuters
+   URL: https://www.reuters.com/world/tax-cuts-more-military-spending-swedens-85-bln-election-year-budget-2025-09-22/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+14. Tax cuts, more military spending in Sweden’s $8.5 billion election-year budget | The Mighty 790 KFGO | KFGO
+   URL: https://kfgo.com/2025/09/22/tax-cuts-more-military-spending-in-swedens-8-5-billion-election-year-budget/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+15. Sweden to temporarily halve food VAT in election-year ...
+   URL: https://www.reuters.com/markets/europe/sweden-temporarily-halve-food-vat-election-year-budget-2025-09-04/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+16. Sweden Unveils Bonanza Budget to Boost Growth With ...
+   URL: https://www.usnews.com/news/world/articles/2025-09-22/tax-cuts-more-military-spending-in-swedens-8-5-billion-election-year-budget
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+17. Sweden unveils $8.5-billion budget to boost growth with ...
+   URL: https://www.tradingview.com/news/reuters.com,2025:newsml_L5N3V905N:0-sweden-unveils-8-5-billion-budget-to-boost-growth-with-tax-cuts-military-spending-before-election/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+18. Tax cuts, more military spending in Sweden's $8.5 bln ...
+   URL: https://www.tradingview.com/news/reuters.com,2025:newsml_S8N3SY035:0-tax-cuts-more-military-spending-in-sweden-s-8-5-bln-election-year-budget/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+19. STOCKHOLM (Reuters) Sweden's rightwing government ...
+   URL: https://www.facebook.com/100064038543239/posts/1247943880683552/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+20. Swedish government announces $3 billion in tax cuts in 2026 | Reuters
+   URL: https://www.reuters.com/world/swedish-government-announces-3-billion-tax-cuts-2026-2025-09-08/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+21. Housing law and budget tax cuts: What changes in September 2025
+   URL: https://www.thelocal.se/20250819/what-changes-in-sweden-in-september-2025
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+22. Sweden plans budget tax cuts, stimulus measures to continue | Reuters
+   URL: https://www.reuters.com/article/sweden-economy-budget/update-1-sweden-plans-budget-tax-cuts-stimulus-measures-to-continue-idINL8N2Q31SP/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+23. Sweden unveils bonanza budget to boost growth with tax cuts, military spending, before election — TradingView News
+   URL: https://www.tradingview.com/news/reuters.com,2025:newsml_L5N3V905N:0-sweden-unveils-bonanza-budget-to-boost-growth-with-tax-cuts-military-spending-before-election/
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+24. Sweden Unveils $8.5-bn Budget to Boost Growth with Tax Cuts, Military Spending, Before Election
+   URL: https://www.chronicle.lu/category/international-news/56903-sweden-unveils-8-5-bn-budget-to-boost-growth-with-tax-cuts-military-spending-before-election
+   Query: "Sweden budget 2025 tax cuts Reuters September 2025"
+
+25. Nordic Tech Tour Americas 2025 - nordicsemi.com
+   URL: https://www.nordicsemi.com/Events/2025/Nordic-Tech-Tour-Americas-2025
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+26. nPM2100 PMIC - nordicsemi.com
+   URL: https://www.nordicsemi.com/Products/nPM2100
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+27. nRF9151 - nordicsemi.com
+   URL: https://www.nordicsemi.com/Products/nRF9151
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+28. Nordic Semiconductor launches nRF Connect SDK Bare Metal …
+   URL: https://www.nordicsemi.com/Nordic-news/2025/08/Nordic-Semiconductor-launches-nRF-Connect-SDK-Bare-Metal-option-for-nRF54L-Series
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+29. nRF21540 - nordicsemi.com
+   URL: https://www.nordicsemi.com/Products/nRF21540
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+30. EQT kicks off sale of Nordic broadband and data centre ...
+   URL: https://www.reuters.com/technology/buyout-group-eqt-kicks-off-sale-nordic-broadband-data-centre-business-ft-reports-2025-09-19/
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+31. US-Norway spat over wealth fund's Caterpillar exit is ...
+   URL: https://www.reuters.com/sustainability/society-equity/us-norway-spat-over-wealth-funds-caterpillar-exit-is-settling-foreign-minister-2025-09-25/
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+32. From Denmark to Finland to Norway, Zetland bets its model ...
+   URL: https://www.niemanlab.org/2025/09/from-denmark-to-finland-to-norway-zetland-bets-its-model-can-travel-well-and-germanys-up-next/
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+33. Nordic region switches power market model to aid ...
+   URL: https://www.reuters.com/sustainability/climate-energy/nordic-region-switches-power-market-model-aid-renewables-integration-2024-10-29/
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+34. Nordic countries sign new ammunition agreement with ...
+   URL: https://www.reuters.com/business/aerospace-defense/nordic-countries-sign-new-ammunition-agreement-with-norways-nammo-2025-06-16/
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+35. nRF54L15 DK - nordicsemi.com
+   URL: https://www.nordicsemi.com/Products/Development-hardware/nRF54L15-DK
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+36. nRF54H20 - nordicsemi.com
+   URL: https://www.nordicsemi.com/Products/nRF54H20
+   Query: "Nordic business news September 2025 Finland Denmark Norway September 2025 Reuters"
+
+37. Sweden to temporarily halve food VAT in election-year budget | Reuters
+   URL: https://www.reuters.com/markets/europe/sweden-temporarily-halve-food-vat-election-year-budget-2025-09-04/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+38. Sweden To Temporarily Halve Food VAT In Election-Year Budget | ESM Magazine
+   URL: https://www.esmmagazine.com/retail/swedish-government-to-halve-vat-on-food-295612
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+39. Swedish government to halve VAT on food to help boost households | Cyprus Mail
+   URL: https://cyprus-mail.com/2025/09/04/swedish-government-to-halve-vat-on-food-to-help-boost-households
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+40. Sweden to cut food VAT in 2026 budget proposal
+   URL: https://www.freshplaza.com/europe/article/9762917/sweden-to-cut-food-vat-in-2026-budget-proposal/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+41. Sitemap - 4 September 2025
+   URL: https://www.reuters.com/sitemap/2025-09/04/33/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+42. Sweden to temporarily halve food VAT in election-year budget
+   URL: https://www.globalbankingandfinance.com/SWEDEN-BUDGET-59bd12c1-fb9b-4fe4-bb88-97320a191f29
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+43. Sweden to temporarily halve food VAT in election-year budget | MarketScreener
+   URL: https://www.marketscreener.com/news/sweden-to-temporarily-halve-food-vat-in-election-year-budget-ce7d59dbd081f324
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+44. Sweden halves food VAT to 6% till Dec 2027 - vatcalc.com
+   URL: https://www.vatcalc.com/sweden/sweden-halves-food-vat-to-6-till-dec-2027/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+45. Sweden to temporarily halve food VAT in election-year budget | IceNews - Daily News
+   URL: https://www.icenews.is/2025/09/08/sweden-to-temporarily-halve-food-vat-in-election-year-budget/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+46. Sweden to reduce the VAT rate on foodstuffs from 12% to 6% as of 1 April 2026 – VATupdate
+   URL: https://www.vatupdate.com/2025/09/07/sweden-to-reduce-the-vat-rate-on-foodstuffs-from-12-to-6-as-of-1-april-2026/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+47. Temporary VAT Reduction on Food in Sweden
+   URL: https://marosavat.com/temporary-vat-reduction-on-food-in-sweden/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+48. Sweden to Halve Food VAT in Election-Year Budget to Boost Economy and Support Households – VATupdate
+   URL: https://www.vatupdate.com/2025/09/04/sweden-to-halve-food-vat-in-election-year-budget-to-boost-economy-and-support-households/
+   Query: "Sweden temporarily halve food VAT 6% September 2025 Reuters"
+
+49. Northvolt - Wikipedia
+   URL: https://en.wikipedia.org/wiki/Northvolt
+   Query: "Northvolt September 2025 news Sweden"
+
+50. Northvolt files for bankruptcy in Sweden | Northvolt
+   URL: https://northvolt.com/articles/northvolt-files-for-bankruptcy-in-sweden/
+   Query: "Northvolt September 2025 news Sweden"
+
+51. Northvolt: Sweden approves takeover by Lyten - Batteries News
+   URL: https://batteriesnews.com/northvolt-sweden-approves-takeover-by-lyten/
+   Query: "Northvolt September 2025 news Sweden"
+
+52. Lyten receives approval for acquisition of Northvolt
+   URL: https://www.electrive.com/2025/09/24/lyten-receives-approval-for-acquisition-of-northvolt/
+   Query: "Northvolt September 2025 news Sweden"
+
+53. Lyten's Acquisition of Northvolt Approved by ISP Authority
+   URL: https://swedenherald.com/article/lytens-acquisition-of-northvolt-approved-by-authority-isp
+   Query: "Northvolt September 2025 news Sweden"
+
+54. Lyten Acquisition of Northvolt Assets - Battery Lithium-Sulfur
+   URL: https://lyten.com/northvolt-acquisition/
+   Query: "Northvolt September 2025 news Sweden"
+
+55. Northvolt to axe 1600 jobs as Europe's EV hopes stall
+   URL: https://www.reuters.com/markets/europe/northvolt-cut-1600-jobs-sweden-2024-09-23/
+   Query: "Northvolt September 2025 news Sweden"
+
+56. European Battery Hopes Boosted by Northvolt Acquisition
+   URL: https://www.wardsauto.com/industry/european-battery-hopes-boosted-by-northvolt-acquisition
+   Query: "Northvolt September 2025 news Sweden"
+
+57. Lyten to Revive Northvolt Factory with Fewer Employees
+   URL: https://swedenherald.com/article/lyten-appoints-matthias-arleth-as-ceo-for-sweden-operations
+   Query: "Northvolt September 2025 news Sweden"
+
+58. Lithium battery maker Lyten buys further Northvolt assets in ...
+   URL: https://www.fastmarkets.com/insights/lithium-battery-maker-lyten-buys-further-northvolt-assets-in-europe/
+   Query: "Northvolt September 2025 news Sweden"
+
+59. Northvolt cuts 3300 jobs in Sweden following bankruptcy ...
+   URL: https://energynews.pro/en/northvolt-cuts-3300-jobs-in-sweden-following-bankruptcy-filing/
+   Query: "Northvolt September 2025 news Sweden"
+
+60. Sweden Approves Northvolt Takeover by Lyten - Battery-News
+   URL: https://battery-news.de/en/2025/09/25/sweden-approves-northvolt-takeover-by-lyten/
+   Query: "Northvolt September 2025 news Sweden"
+
+61. Lyten brings back Northvolt executives following asset acquisition | Reuters
+   URL: https://www.reuters.com/business/finance/lyten-brings-back-northvolt-executives-following-asset-acquisition-2025-09-04/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+62. Battery startup Lyten yet to convince carmakers over Northvolt revival | Reuters
+   URL: https://www.reuters.com/business/finance/battery-startup-lyten-yet-convince-carmakers-over-northvolt-revival-2025-08-25/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+63. US startup Lyten to buy bankrupt European battery maker Northvolt | Reuters
+   URL: https://www.reuters.com/business/energy/us-startup-lyten-buy-bankrupt-european-battery-maker-northvolt-2025-08-07/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+64. Northvolt AB
+   URL: https://www.reuters.com/company/northvolt-ab/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+65. Northvolt ramped up production of quality batteries before ...
+   URL: https://www.reuters.com/business/finance/northvolt-ramped-up-production-quality-batteries-before-halting-operations-2025-08-08/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+66. U.S. Battery Startup Lyten Buys Northvolt's Remaining ...
+   URL: https://www.msn.com/en-us/money/companies/u-s-battery-startup-lyten-buys-northvolt-s-remaining-european-assets/ar-AA1K8IF6?ocid=finance-verthp-feeds&apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+67. Lyten to acquire Northvolt's Quebec battery plant
+   URL: https://www.facebook.com/groups/letstalkalbertaindependence/posts/1849188012346066/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+68. US startup buys what is left of battery maker Northvolt
+   URL: https://amwatch.com/AMNews/Ethics/article18418696.ece
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+69. Energy Transition in Motion (Week of Aug. 8, 2025)
+   URL: https://www.hartenergy.com/exclusives/energy-transition-motion-week-aug-8-2025-213774
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+70. PRESS RELEASE: Lyten to Acquire All Remaining Northvolt Assets in Sweden and Germany - Battery Lithium-Sulfur | Electric Vehicles | Lyten 3D Graphene™ Supermaterials
+   URL: https://lyten.com/2025/08/07/lyten-to-acquire-all-remaining-northvolt-assets-in-sweden-and-germany/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+71. Lyten to Acquire All Remaining Northvolt Assets in Sweden and Germany
+   URL: https://northvolt.com/articles/lyten-to-acquire-all-remaining-northvolt-assets-in-sweden-and-germany/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+72. Sweden Approves Northvolt Takeover by Lyten - Battery-News
+   URL: https://battery-news.de/en/2025/09/25/sweden-approves-northvolt-takeover-by-lyten/
+   Query: "Lyten Northvolt takeover approved Sweden September 2025 Reuters"
+
+73. EQT kicks off sale of Nordic broadband and data centre business, FT reports | Reuters
+   URL: https://www.reuters.com/technology/buyout-group-eqt-kicks-off-sale-nordic-broadband-data-centre-business-ft-reports-2025-09-19/
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+74. Globalconnect A/S
+   URL: https://www.reuters.com/company/globalconnect-a-s/
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+75. Buyout group EQT kicks off sale of Nordic broadband and data centre business, FT reports | MarketScreener
+   URL: https://www.marketscreener.com/news/buyout-group-eqt-kicks-off-sale-of-nordic-broadband-and-data-centre-business-ft-reports-ce7d58d9d180f126
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+76. Eqt Ab
+   URL: https://www.reuters.com/company/eqt-ab/
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+77. EQT sells out of Telus Digital for US$215 million
+   URL: https://www.telecoms.com/ai/eqt-sells-out-of-telus-digital-for-us-215-million
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+78. Buyout group EQT kicks off sale of Nordic broadband and data ...
+   URL: https://au.marketscreener.com/news/buyout-group-eqt-kicks-off-sale-of-nordic-broadband-and-data-centre-business-ft-ce7d58d9d180f620
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+79. EQT launches €8bn sale of GlobalConnect - Private Equity Wire
+   URL: https://www.privateequitywire.co.uk/eqt-launches-e8bn-sale-of-globalconnect/
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+80. EQT kicks off sale of Nordic broadband and data centre business, FT reports — TradingView News
+   URL: https://www.tradingview.com/news/reuters.com,2025:newsml_L3N3V609A:0-eqt-kicks-off-sale-of-nordic-broadband-and-data-centre-business-ft-reports/
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+81. Buyout group EQT kicks off sale of Nordic broadband and data centre business
+   URL: https://www.ft.com/content/6988198b-2954-4796-9da4-598ca8385b09
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+82. EQT launches sale of Nordic broadband operator GlobalConnect – FT By Investing.com
+   URL: https://www.investing.com/news/stock-market-news/eqt-launches-sale-of-nordic-broadband-operator-globalconnect--ft-4246052
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+83. EQT kicks off sale of Nordic broadband and data centre business, FT reports
+   URL: https://www.globalbankingandfinance.com/EQT-DIVESTITURE-GLOBALCONNECT-a0a6de84-3f7f-4bef-a024-8c7728f07553
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+84. Buyout group EQT kicks off sale of Nordic broadband and data centre business, FT reports | The Star
+   URL: https://www.thestar.com.my/tech/tech-news/2025/09/19/buyout-group-eqt-kicks-off-sale-of-nordic-broadband-and-data-centre-business-ft-reports
+   Query: "EQT kicks off sale GlobalConnect Reuters September 2025"
+
+85. Start | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+86. Payments and cash | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+87. Statistics | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/statistics/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+88. Policy rate, deposit and lending rate - Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/policy-rate-deposit-and-lending-rate/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+89. Payments Report 2025 - Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+90. Policy rate is cut to 2 per cent | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/policy-rate-is-cut-to-2-per-cent/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+91. Current inflation rate | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/monetary-policy/the-inflation-target/current-inflation-rate/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+92. The e-krona – state money in digital form | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/e-krona/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+93. Sök räntor och valutakurser | Sveriges Riksbank
+   URL: https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/sok-rantor-och-valutakurser/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+94. Startsida | Sveriges Riksbank
+   URL: https://www.riksbank.se/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+95. Swedish central bank seen on hold next week, but rate cut ...
+   URL: https://www.reuters.com/business/finance/swedish-central-bank-seen-hold-next-week-rate-cut-not-ruled-out-reuters-poll-2025-09-19/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+
+96. Swedish central bank keeps key rate on hold, could still cut ...
+   URL: https://www.reuters.com/business/finance/swedish-central-bank-keeps-key-rate-hold-could-still-cut-this-year-2025-08-20/
+   Query: "Riksbank rate decision September 23 2025 Reuters Sweden inflation September 2025"
+

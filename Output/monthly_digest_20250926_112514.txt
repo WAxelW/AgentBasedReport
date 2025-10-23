@@ -1,0 +1,451 @@
+Monthly Business Digest - September 2025
+============================================================
+
+Period: September 2025
+Generated: 2025-09-26T11:25:14.922517
+Searches conducted: 8
+Total results: 96
+Word count: 549
+Trusted sources only: False
+
+## Main Content
+Executive summary
+The Nordic business landscape in the last 30 days was shaped by strategic industrial wins, surprise monetary easing in Sweden, political shifts in Norway and renewed M&A momentum in digital infrastructure. These developments tighten the link between capital cost, digital infrastructure strategy and energy transition planning for Nordic corporates.
+
+Key developments
+- Major telecom contract: Ericsson and Nokia secured a ~£2bn 5G equipment deal with VodafoneThree for the UK, reinforcing Nordic vendors’ regional position and AI/energy-optimised radio rollouts [1][10].  
+- Policy surprise: Sveriges Riksbank cut its policy rate to 1.75% (25 bps) in September, a surprise move intended to bolster a softening recovery [5][11].  
+- Digital-infrastructure M&A: EQT initiated a sale process for GlobalConnect (Nordic broadband & data-centre assets), signalling active private-equity activity in regional digital backbone assets [2].  
+- Political and sovereign-fund scrutiny: Norway’s election returned Labour while right-wing populists gained ground; Norway’s sovereign wealth fund remains in headline discussions after controversial divestments (e.g., Caterpillar), with diplomatic and investment implications [6][7][3].
+
+Main body — notable developments (bullets, short summaries + references)
+- Ericsson & Nokia win VodafoneThree contract: The £2bn agreement to upgrade the new VodafoneThree network emphasises demand for Western vendors, opportunities in energy-optimised 5G hardware and scope for partners in services and edge use-cases [1][10].  
+  References: Reuters / Telecoms.com [1][10].
+
+- Riksbank rate cut shocks markets: Sweden’s policy rate was unexpectedly reduced to 1.75%, shifting borrowing costs, FX and corporate financing plans — lenders and CFOs must re-run forecasts for interest-sensitive projects and working-capital lines [5][11].  
+  References: Riksbank press release / TradingEconomics [5][11].
+
+- EQT starts sale of GlobalConnect: The auction of a pan‑Nordic fibre and data‑centre business underscores investor appetite for digital infrastructure as essential, defensive assets; expect bidding from infrastructure funds and strategic buyers [2][4].  
+  References: Reuters / Yahoo Finance summary [2][4].
+
+- Norway election and policy signals: Labour’s win with populist gains implies continuity but more politically charged debate on wealth taxes, oil policy and sovereign‑fund ethics — companies with exposure to Norway’s energy or defence ecosystem should monitor policy shifts [6][3].  
+  References: Reuters / AInvest analysis [6][9].
+
+- Energy & renewables activity: Vattenfall developments in offshore projects (Nordlicht base, integrated sustainability pilots such as seaweed/ wind) signal ongoing investments in scale and sustainability-integration across Nordics/Europe [11][3].  
+  References: Vattenfall press / LSN Global [11][3].
+
+- Market reaction and sector stress: Nordic equities saw a modest pullback with specific hits (e.g., Afry) as investors digest earnings and sector rotation; expect selective volatility in industrials and tech [8].  
+  References: Morningstar / Market commentary [8].
+
+Strategic implications (actionable insights for clients)
+- Reassess capital plans and refinancing windows now rates are lower but still volatile — prioritise projects with fast payback and optionality.  
+- Treat digital backbone assets (fibre, edge, data centres) as strategic or monetisable: accelerate due diligence if you plan partnerships or divestments.  
+- For telecom and enterprise customers, map opportunities from the 5G roll‑out (private networks, energy‑efficient equipment, AI services) and position offerings for vendor-led ecosystems.  
+- Monitor Norway’s policy debates (wealth tax, sovereign-fund stance) for investor-relations and supply‑chain risk; prepare engagement scenarios.  
+- Use energy project developments to advance corporate sustainability partnerships (co-investment, off‑take, biodiversity/seafood synergies).
+
+Source References
+1. https://www.reuters.com/business/media-telecom/ericsson-gets-133-billion-5g-contract-vodafonethree-2025-09-22/  
+2. https://www.reuters.com/technology/buyout-group-eqt-kicks-off-sale-nordic-broadband-data-centre-business-ft-reports-2025-09-19/  
+3. https://group.vattenfall.com/press-and-media/newsroom/2025/wind-seaweed-farming-saves-space-and-the-sea-environment  
+4. https://finance.yahoo.com/news/buyout-group-eqt-kicks-off-042000799.html  
+5. https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/policy-rate-is-cut-to-2-per-cent/  
+6. https://www.reuters.com/world/europe/norway-ruling-labour-party-wins-reelection-while-populists-score-gains-2025-09-08/  
+7. https://www.euronews.com/2025/09/08/norway-votes-in-closely-fought-election-with-wealth-tax-in-focus  
+8. https://www.morningstar.com/news/dow-jones/202509225660/nordic-stocks-drop-afry-takes-biggest-hit  
+9. https://telecoms.com/operator-ecosystem/vodafonethree-signs-deals-with-ericsson-and-nokia-worth-2-billion  
+10. https://www.channelnewsasia.com/business/ericsson-nokia-win-27-billion-uk-deal-vodafonethree-5361376  
+11. https://www.lsnglobal.com/news/2025-09-15
+
+## Action Items
+• Review market developments
+• Monitor key trends
+• Consider strategic implications
+
+## Source References
+All information sourced from verified professional publications:
+
+1. Sweden
+   URL: https://scandasia.com/news/sweden/
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+2. General news
+   URL: https://scandasia.com/general-news/
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+3. Sweden Archives
+   URL: https://nordicstartupnews.com/sweden/
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+4. Coolcations in destinations such as Norway, Iceland and ...
+   URL: https://www.euronews.com/travel/2025/04/21/coolcations-why-more-people-are-flocking-to-destinations-in-norway-finland-and-iceland-thi
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+5. Nordic Stocks Drop; Afry Takes Biggest Hit
+   URL: https://www.morningstar.com/news/dow-jones/202509225660/nordic-stocks-drop-afry-takes-biggest-hit
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+6. India-Nordic Budding Dynamics: Sweden, a Vital Gateway?
+   URL: https://www.isdp.eu/wp-content/uploads/2025/03/Policy-Brief-India-Sweden-2-March-24-new-1.pdf
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+7. Kenya Embassy Stockholm Co-Hosts Nordic Launch of the ...
+   URL: https://kenyaembassystockholm.com/index.php/2025/05/20/kenya-embassy-stockholm-co-hosts-nordic-launch-of-the-east-africa-investor-tour-2025/
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+8. The Nordic societies and the development of the data ...
+   URL: https://www.sciencedirect.com/science/article/pii/S0160791X22000720
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+9. Nordic Countries Are Happy. But Are Their Workers Safe?
+   URL: https://facilityexecutive.com/nordic-countries-are-happy-but-are-their-workers-safe
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+10. Nordic Outlook: Stable growth despite challenges from all sides | SEB
+   URL: https://sebgroup.com/press/press-releases/2025/nordic-outlook-stable-growth-despite-challenges-from-all-sides
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+11. Nordics Existing & Upcoming Data Center Database 2025: Coverage of 115 existing Data Centers and 28 Upcoming Data Centers Across Denmark, Finland, Iceland, Norway and Sweden
+   URL: https://www.globenewswire.com/de/news-release/2025/02/06/3021759/28124/en/Nordics-Existing-Upcoming-Data-Center-Database-2025-Coverage-of-115-existing-Data-Centers-and-28-Upcoming-Data-Centers-Across-Denmark-Finland-Iceland-Norway-and-Sweden.html
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+12. Six Weeks Until the Scandinavian & Nordic Gaming Show 2025 – Chairperson Shares Key Market Developments
+   URL: https://www.bigcountryhomepage.com/business/press-releases/ein-presswire/848327192/six-weeks-until-the-scandinavian-nordic-gaming-show-2025-chairperson-shares-key-market-developments/
+   Query: "Sweden Nordic business news September 2025 major developments Sweden Norway Denmark Finland Iceland last 30 days"
+
+13. Ericsson - Wikipedia
+   URL: https://en.wikipedia.org/wiki/Ericsson
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+14. Enabling the full value of connectivity - Ericsson
+   URL: https://www.ericsson.com/en
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+15. Ericsson , Nokia win $2.7 billion UK deal from VodafoneThree
+   URL: https://www.reuters.com/business/media-telecom/ericsson-gets-133-billion-5g-contract-vodafonethree-2025-09-22/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+16. Part of Ericsson | Ericsson - Cradlepoint
+   URL: https://cradlepoint.com/ericsson/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+17. Telefonaktiebolaget LM Ericsson (publ ) (ERIC) - Yahoo Finance
+   URL: https://finance.yahoo.com/quote/ERIC/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+18. Ericsson Careers: Want to be part of our global team?
+   URL: https://www.ericsson.com/en/careers
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+19. Ericsson | Company Overview & News - Forbes
+   URL: https://www.forbes.com/companies/ericsson/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+20. Secure, open 5G networks for defense missions - Ericsson
+   URL: https://ericssonfederaltechnologiesgroup.com/en
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+21. Ericsson , Nokia secure $2.7 billion VodafoneThree deal
+   URL: https://www.rcrwireless.com/20250922/business/ericsson-vodafonethree
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+22. Ericsson Q3 2025 Earnings Report
+   URL: https://www.marketbeat.com/earnings/reports/2025-10-14-telefonaktiebolaget-lm-ericsson-publ-stock/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+23. How the Narrative Around Ericsson Is Shifting Amid Analyst ...
+   URL: https://finance.yahoo.com/news/narrative-around-ericsson-shifting-amid-123135212.html
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+24. Ericsson (ERIC) Surges After Q2 EPS Beats at $0.1425 vs ...
+   URL: https://globalmarketbulletin.com/ericsson-eric-surges-after-q2-eps-beats-at-0-1425-vs-0-12-forecast/
+   Query: "Ericsson September 2025 news Sweden Ericsson September 2025 announcement earnings"
+
+25. Start | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+26. Payments and cash | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+27. Statistics | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/statistics/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+28. Policy rate, deposit and lending rate - Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/statistics/interest-rates-and-exchange-rates/policy-rate-deposit-and-lending-rate/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+29. Payments Report 2025 - Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+30. Policy rate is cut to 2 per cent | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/press-releases/2025/policy-rate-is-cut-to-2-per-cent/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+31. Current inflation rate | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/monetary-policy/the-inflation-target/current-inflation-rate/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+32. The e-krona – state money in digital form | Sveriges Riksbank
+   URL: https://www.riksbank.se/en-gb/payments--cash/e-krona/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+33. Sök räntor och valutakurser | Sveriges Riksbank
+   URL: https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/sok-rantor-och-valutakurser/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+34. Startsida | Sveriges Riksbank
+   URL: https://www.riksbank.se/
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+35. Sweden Interest Rate
+   URL: https://tradingeconomics.com/sweden/interest-rate
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+36. Riksbank Cuts Rates in Surprise Move to Bolster Economy
+   URL: https://tradingeconomics.com/sweden/interest-rate/news/487167
+   Query: "Riksbank September 2025 interest rate decision September 2025 Sweden inflation GDP news"
+
+37. Best of both worlds – new project uses offshore wind farms to ...
+   URL: https://group.vattenfall.com/press-and-media/newsroom/2025/wind-seaweed-farming-saves-space-and-the-sea-environment
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+38. Wind power – Wind energy – Wind farms - Wind turbines
+   URL: https://group.vattenfall.com/our-operations/our-energy-sources/wind-power
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+39. LSN : News : 15 : 09 : 25
+   URL: https://www.lsnglobal.com/news/2025-09-15
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+40. Vattenfall to operate Nordlicht wind farm from Eemshaven
+   URL: https://inspenet.com/en/noticias/vattenfall-to-have-offshore-base-in-eemshaven-for-nordlicht/
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+41. Vattenfall pauses development of Sweden's most mature ...
+   URL: https://splash247.com/vattenfall-pauses-development-of-swedens-most-mature-offshore-wind-farm/
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+42. Vattenfall Build Holistic Sustainability Into New Wind Farm
+   URL: https://sustainabilitymag.com/articles/vattenfall-build-holistic-sustainability-into-new-wind-farm
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+43. Vattenfall to build Germany's largest offshore wind farm.
+   URL: https://www.4coffshore.com/news/vattenfall-to-build-germany27s-largest-offshore-wind-farm.-nid30925.html
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+44. Vattenfall invests in new 63MW onshore wind farm in ...
+   URL: https://energynews.pro/en/vattenfall-invests-in-new-63mw-onshore-wind-farm-in-scotland/
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+45. Vattenfall builds Vestas park
+   URL: https://energywatch.com/EnergyNews/Renewables/article16556658.ece
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+46. A brief summary of our key facts and figures - Vattenfall
+   URL: https://group.vattenfall.com/about-us/vattenfall-in-brief/
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+47. We are working for fossil freedom - Vattenfall
+   URL: https://group.vattenfall.com/
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+48. About us - Our company - Vattenfall
+   URL: https://group.vattenfall.com/about-us
+   Query: "Vattenfall September 2025 news Sweden Vattenfall September 2025 wind project"
+
+49. 2025 Norwegian parliamentary election - Wikipedia
+   URL: https://en.wikipedia.org/wiki/2025_Norwegian_parliamentary_election
+   Query: "Norway election result September 2025 business implications"
+
+50. Opinion polling for the 2025 Norwegian parliamentary election - Wikipedia
+   URL: https://en.wikipedia.org/wiki/Opinion_polling_for_the_2025_Norwegian_parliamentary_election
+   Query: "Norway election result September 2025 business implications"
+
+51. 2025 Norwegian Sámi parliamentary election - Wikipedia
+   URL: https://en.wikipedia.org/wiki/2025_Norwegian_Sámi_parliamentary_election
+   Query: "Norway election result September 2025 business implications"
+
+52. Explainer: What you need to know about Norway's election | Reuters
+   URL: https://www.reuters.com/business/finance/what-you-need-know-about-norways-upcoming-election-2025-09-08/
+   Query: "Norway election result September 2025 business implications"
+
+53. Norway votes in closely fought election with wealth tax in focus | Euronews
+   URL: https://www.euronews.com/2025/09/08/norway-votes-in-closely-fought-election-with-wealth-tax-in-focus
+   Query: "Norway election result September 2025 business implications"
+
+54. Norway ruling Labour Party wins reelection while populists score gains | Reuters
+   URL: https://www.reuters.com/world/europe/norway-ruling-labour-party-wins-reelection-while-populists-score-gains-2025-09-08/
+   Query: "Norway election result September 2025 business implications"
+
+55. Norway heads to the polls in highly polarised 'Maga- ...
+   URL: https://www.theguardian.com/world/2025/sep/08/norway-heads-to-the-polls-in-highly-polarised-maga-fication-election
+   Query: "Norway election result September 2025 business implications"
+
+56. Norway's Labor Party claims victory in general election
+   URL: https://www.taxtmi.com/news?id=55032
+   Query: "Norway election result September 2025 business implications"
+
+57. Norway's Post-Election Political Dynamics and Implications ...
+   URL: https://www.ainvest.com/news/norway-post-election-political-dynamics-implications-sovereign-wealth-tax-policy-stability-2509/
+   Query: "Norway election result September 2025 business implications"
+
+58. Norway must remain a reliable energy supplier, PM says ...
+   URL: https://www.arctictoday.com/norway-must-remain-a-reliable-energy-supplier-pm-says-after-election-win/
+   Query: "Norway election result September 2025 business implications"
+
+59. Norway votes in a closely fought election with the future of a ...
+   URL: https://abcnews.go.com/Business/wireStory/norway-votes-closely-fought-election-future-wealth-tax-125353356
+   Query: "Norway election result September 2025 business implications"
+
+60. Wealth tax in the spotlight in Norway's election - AP Newsroom
+   URL: https://newsroom.ap.org/detail/WealthtaxinthespotlightinNorwayselection/bfbb81e3a338486781413d52de49f435/video
+   Query: "Norway election result September 2025 business implications"
+
+61. Global Economic Prospects -- June 2025
+   URL: https://thedocs.worldbank.org/en/doc/8bf0b62ec6bcb886d97295ad930059e9-0050012025/original/GEP-June-2025.pdf
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+62. Annual Report 2024/2025 ENG
+   URL: https://embracer.com/wp-content/uploads/2025/06/Embracer-Group-publishes-annual-report-202425-250619.pdf
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+63. The Impact of Regulation on International Investment in ...
+   URL: https://www.oecd.org/content/dam/oecd/en/publications/reports/2021/05/the-impact-of-regulation-on-international-investment-in-finland_852df409/b1bf8bee-en.pdf
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+64. IP2 - Finland national dossier FINAL
+   URL: https://resourcecentre.etuc.org/sites/default/files/2019-07/Restructuring+in+EU27+-+Finland+Country+Dossier+-+EN.pdf
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+65. Справка по параметрам камеры в Windows ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/справка/b7c17895-8f3c-48f5-bfcc-95e8b7b1da30
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+66. Blog - Compraventa de empresas ONEtoONE ...
+   URL: https://www.onetoonecf.com/news/
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+67. IFR European ECM briefing
+   URL: https://www.kslaw.com/attachments/000/012/929/original/Project_Finance_International.pdf?1753290623
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+68. Справка по проблемам со звуком в Windows ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/справка/302cfb99-cf64-4ba8-a038-94390af43d78
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+69. Справка по параметрам камеры в Windows ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/справка/f635bd30-2c73-4b3e-a75d-2b3823a6daec
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+70. Справка по параметрам дисплея в Windows ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/справка/baa3f233-3404-48f7-8378-4e5967f41913
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+71. Справка по параметрам питания и ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/справка/da58cd2f-ca6c-4af3-8216-427c4d844f94
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+72. Как востановить "Справка и поддержка" в ...
+   URL: https://answers.microsoft.com/ru-ru/windows/forum/all/как/515155fc-c0cb-4c95-994e-596480454755
+   Query: "Nordic business news September 2025 Sweden Denmark Norway Finland corporate developments September 2025 layoffs M&A regulation"
+
+73. Ericsson, Nokia win $2.7 billion UK deal from VodafoneThree | Reuters
+   URL: https://www.reuters.com/business/media-telecom/ericsson-gets-133-billion-5g-contract-vodafonethree-2025-09-22/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+74. VodafoneThree Signs £2B Ericsson-Nokia Deals for UK 5G Network
+   URL: https://www.webpronews.com/vodafonethree-signs-2b-ericsson-nokia-deals-for-uk-5g-network/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+75. Vodafone Three Selects Ericsson and Nokia For $2.7 Billion Network Contract | MarketScreener
+   URL: https://www.marketscreener.com/news/vodafone-three-selects-ericsson-and-nokia-for-2-7-billion-network-contract-ce7d58dfda8df225
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+76. Telefonaktiebolaget LM Ericsson
+   URL: https://www.reuters.com/company/telefonaktiebolaget-lm-ericsson/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+77. Ericsson gets $1.33 billion 5G contract from VodafoneThree
+   URL: https://srnnews.com/ericsson-gets-1-33-billion-5g-contract-from-vodafonethree/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+78. Nokia Oyj
+   URL: https://www.reuters.com/company/nokia-oyj/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+79. Telefonaktiebolaget LM Ericsson (publ) (STO:ERIC.B)
+   URL: https://stockanalysis.com/quote/sto/ERIC.B/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+80. Déji Fadahunsi on X: "Ericsson, Nokia win $2.7 billion UK ...
+   URL: https://x.com/DJone01/status/1970160835164041664
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+81. ERIC News Today | Why did Ericsson stock go down today?
+   URL: https://www.marketbeat.com/stocks/NASDAQ/ERIC/news/
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+82. Ericsson, Nokia win $2.7 billion UK deal from VodafoneThree - CNA
+   URL: https://www.channelnewsasia.com/business/ericsson-nokia-win-27-billion-uk-deal-vodafonethree-5361376
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+83. Ericsson, Nokia win $2.7 billion UK deal from VodafoneThree | The Star
+   URL: https://www.thestar.com.my/tech/tech-news/2025/09/22/ericsson-gets-133-billion-5g-contract-from-vodafonethree
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+84. VodafoneThree signs deals with Ericsson and Nokia
+   URL: https://www.telecoms.com/operator-ecosystem/vodafonethree-signs-deals-with-ericsson-and-nokia-worth-2-billion
+   Query: "Ericsson VodafoneThree 2.7 billion deal Reuters September 22 2025 'VodafoneThree' Ericsson Nokia 5G UK contract"
+
+85. EQT kicks off sale of Nordic broadband and data centre business, FT reports | Reuters
+   URL: https://www.reuters.com/technology/buyout-group-eqt-kicks-off-sale-nordic-broadband-data-centre-business-ft-reports-2025-09-19/
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+86. Nordic countries sign new ammunition agreement with Norway's Nammo | Reuters
+   URL: https://www.reuters.com/business/aerospace-defense/nordic-countries-sign-new-ammunition-agreement-with-norways-nammo-2025-06-16/
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+87. US-Norway spat over wealth fund's Caterpillar exit is ...
+   URL: https://www.reuters.com/sustainability/society-equity/us-norway-spat-over-wealth-funds-caterpillar-exit-is-settling-foreign-minister-2025-09-25/
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+88. EQT kicks off sale of Nordic broadband and data centre ...
+   URL: https://finance.yahoo.com/news/buyout-group-eqt-kicks-off-042000799.html
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+89. US-Norway Spat Over Wealth Fund's Caterpillar Exit Is ...
+   URL: https://www.usnews.com/news/top-news/articles/2025-09-25/us-norway-spat-over-wealth-funds-caterpillar-exit-is-settling-foreign-minister-says
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+90. Six Weeks Until the Scandinavian & Nordic Gaming Show 2025 – Chairperson Shares Key Market Developments
+   URL: https://www.wjhl.com/business/press-releases/ein-presswire/848327192/six-weeks-until-the-scandinavian-nordic-gaming-show-2025-chairperson-shares-key-market-developments/
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+91. Nordic Outlook: Economies stay on track despite all the risks
+   URL: https://danskebank.com/news-and-insights/news-archive/insights/2025/03092025
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+92. Nordic Outlook: Stable growth despite challenges from all sides | SEB
+   URL: https://sebgroup.com/press/press-releases/2025/nordic-outlook-stable-growth-despite-challenges-from-all-sides
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+93. Nordic Business Forum - Europe's Largest Business & Leadership Event
+   URL: https://www.nbforum.com/
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+94. Nordic Outlook: Global tensions hamper growth | SEB
+   URL: https://sebgroup.com/press/press-releases/2025/nordic-outlook-global-tensions-hamper-growth
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+95. Nordic Outlook: Normalising economies despite the noise
+   URL: https://danskebank.com/news-and-insights/news-archive/insights/2025/05032025
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+
+96. Nordic Outlook January 2025 | SEB
+   URL: https://sebgroup.com/our-offering/reports-and-publications/nordic-outlook-highlights/highligts-january-2025/a-divided-world-takes-on-an-uncertain-2025
+   Query: "Nordic business news September 2025 Reuters Sweden Norway Denmark Finland corporate September 2025 major developments"
+

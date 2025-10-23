@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8" />
+                <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                <title>Monthly Business Digest - October 2025</title>
+                <style>
+                    :root{
+                        --differ-dark: #003732;
+                        --differ-green: #328278;
+                        --differ-blue: #0064AA;
+                        --differ-red: #FA6464;
+                        --differ-grey: #EBE6DC; /* light tan used on dark bg */
+                    }
+
+                    /* Basic layout */
+                    html,body{height:100%}
+                    body {
+                        margin: 0;
+                        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+                        background: #000000;
+                        color: var(--differ-grey);
+                        -webkit-font-smoothing:antialiased;
+                        -moz-osx-font-smoothing:grayscale;
+                    }
+                    .container {
+                        max-width: 760px;
+                        margin: 0 auto;
+                        padding: 24px 16px 48px;
+                    }
+
+                    /* Title */
+                    .title {
+                        margin: 0 0 12px 0;
+                        font-weight: 600;
+                        color: var(--differ-green);
+                        font-size: 28px;
+                    }
+
+                    /* Sections & dividers */
+                    .section {
+                        border-bottom: 1px solid rgba(255,255,255,0.12); /* subtle white divider */
+                    }
+                    /* Sections with white background (meta, key developments, etc.) */
+                    .section.white-bg {
+                        background: #ffffff;
+                        color: #333333;
+                        border-radius: 8px;
+                        padding: 12px 16px;
+                        border-bottom: none; /* skip dividing line for white-bg sections */
+                    }
+                    .section.white-bg .content,
+                    .section.white-bg .bullet-text,
+                    .section.white-bg .meta-item {
+                        color: #333333;
+                    }
+                    .section.white-bg .bullet-dot { background: var(--differ-green); }
+                    .section.white-bg .content a { color: var(--differ-blue); }
+
+                    /* Meta grid styling (Period, Generated, Sources, Word Count) */
+                    .meta-grid {
+                        display: grid;
+                        grid-template-columns: repeat(2, minmax(0, 1fr));
+                        gap: 10px;
+                        align-items: start;
+                    }
+                    .meta-item span {
+                        display: block;
+                        font-size: 12px;
+                        text-transform: uppercase;
+                        letter-spacing: .04em;
+                        color: #000000; /* black labels on white */
+                        margin-bottom: 2px;
+                        font-weight: 700;
+                    }
+                    .meta-item {
+                        color: #666666; /* grey answers */
+                        font-size: 14px;
+                        margin: 0;
+                    }
+                    .highlighted-title {
+                        border-top: 1px solid white;
+                        border-bottom: 1px solid white;
+                        padding: 8px 0;
+                        font-weight: 700;
+                        color: var(--differ-green);
+                    }
+
+                    /* Content & headings */
+                    .content {
+                        white-space: pre-wrap;
+                        line-height: 1.45;
+                        color: var(--differ-grey);
+                        font-size: 15px;
+                    }
+                    .section-title {
+                        font-weight: 700;
+                        color: var(--differ-green);
+                        margin: 0 0 2px 0;
+                        font-size: 16px;
+                        line-height: 1.2;
+                        margin-bottom: 0px;
+                    }
+                    .section-title.red { color: var(--differ-red); }
+
+                    /* Bullets */
+                    .bullet {
+                        margin: 4px 0;
+                        display: flex;
+                        align-items: flex-start;
+                        gap: 10px;
+                    }
+                    .bullet-dot {
+                        height: 8px;
+                        background: var(--differ-green);
+                        border-radius: 50%;
+                        display: inline-block;
+                        flex: 0 0 8px;
+                        margin-top: 6px;
+                        font-size: 0;
+                    }
+                    .bullet-text {
+                        color: var(--differ-grey);
+                        line-height: 1.3;
+                        font-size: 15px;
+                        margin: 0;
+                        margin-bottom: 5px;
+                    }
+
+                    /* Links */
+                    .content a { color: var(--differ-blue); text-decoration: none; }
+                    .content a:hover { text-decoration: underline; }
+
+                    /* KPI boxes (two per row) */
+                    .kpi-grid {
+                        display: grid;
+                        grid-template-columns: repeat(2, 1fr);
+                        gap: 10px;
+                        margin-top: 8px;
+                    }
+                    .kpi-box {
+                        background: var(--differ-green);
+                        color: #ffffff;
+                        padding: 12px;
+                        border-radius: 8px;
+                        font-size: 14px;
+                        line-height: 1.4;
+                    }
+                    .kpi-grid .kpi-box:nth-last-child(1):nth-child(odd) {
+                        grid-column: 1 / -1;
+                    }
+
+                    /* Sources */
+                    .sources h2 {
+                        margin: 0 0 6px 0;
+                        color: var(--differ-green);
+                        font-size: 16px;
+                    }
+                    .source-item { padding: 6px 0; color: var(--differ-grey); }
+                    .source-item a { color: var(--differ-blue); text-decoration: none; word-break: break-all; }
+
+                    /* Footer */
+                    .footer {
+                        background: var(--differ-green);
+                        color: #ffffff;
+                        text-align: center;
+                        font-size: 12px;
+                        margin-top: 40px;
+                        padding: 12px;
+                        border-radius: 6px;
+                    }
+
+                    /* Responsive */
+                    @media (max-width: 680px) {
+                        .meta-grid { grid-template-columns: 1fr; }
+                        .kpi-grid { grid-template-columns: 1fr; }
+                    }
+                    @media (max-width: 480px) {
+                        .title { font-size: 22px; }
+                    }
+                </style>
+            </head>
+            <body>
+                <div class="container">
+                    <h1 class="title">Monthly Business Digest - October 2025</h1>
+                    <div class="section meta">
+                        <div class="meta-grid">
+                            <div class="meta-item"><span>Period</span>October 2025</div>
+                            <div class="meta-item"><span>Generated</span>October 09, 2025</div>
+                            <div class="meta-item"><span>Sources</span>23</div>
+                            <div class="meta-item"><span>Word Count</span>911</div>
+                        </div>
+                    </div>
+
+                    <div class="section">
+                        <div class="content"><div class="section-title">October 2025 — Sweden &amp; Nordic business briefing</div>
+
+<div class="section-title">Executive summary</div>
+Sweden’s macro picture in late September–October is now defined by accelerating disinflation and a Riksbank that signals patience with current interest-rate settings. Parallel structural themes — payments modernisation (including the e‑krona), financial‑system resilience and continued energy‑sector capital allocation shifts — present near‑term operational priorities and mid‑term strategic opportunities for Nordic corporates.
+
+<div class="section-title">Main developments (high‑impact items, short summaries and strategic implications)</div>
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Disinflation accelerates: headline CPI 0.9% in September 2025</span></div>
+  Summary: Preliminary data show Sweden’s annual CPI eased to 0.9% in September (down from 1.1% in August), slightly below market expectations and reinforcing a clear downward inflation trend [2].
+  Why it matters: Lower inflation reduces short‑term input‑cost pressure but can mask weaker demand and compress nominal revenue growth. Pricing power and top‑line planning should be revisited.
+  Strategic actions: Reassess pricing escalation clauses, run revenue scenarios with lower nominal growth, and prioritise margin improvements via productivity and cost rationalisation [2].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Riksbank: confidence in current rate path, inclination to hold</span></div>
+  Summary: Minutes from the Riksbank’s September meeting indicate officials are confident that the current policy rate will guide inflation back to target and that further tightening is not currently necessary; the Monetary Policy Report provides the updated forecast envelope and scenario analysis supporting this view [1][3].
+  Why it matters: Stability in policy rates reduces immediate refinancing shock risk but leaves borrowing costs elevated relative to pre‑pandemic norms.
+  Strategic actions: Treasury teams should selectively lock maturities where advantageous, stress‑test debt service under slower revenue scenarios, and align forecast windows with Riksbank publication dates to improve timing on funding decisions [1][3][8].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Payments transformation &amp; resilience: Payments Report 2025</span></div>
+  Summary: The Riksbank’s Payments Report 2025 documents rapid electronic payment adoption, market consolidation among PSPs, and an elevated focus on operational resilience and access to core payment infrastructure [6].
+  Why it matters: Payments are both a cost and a data asset; failures or friction create direct revenue loss and reputational damage.
+  Strategic actions: Accelerate omni‑channel payment integration, invest in fraud prevention and outage recovery, and evaluate partnerships (or M&amp;A) to capture transaction data value and defend against fintech disintermediation [6].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> E‑krona work moves from concept toward operational readiness</span></div>
+  Summary: The Riksbank continues its e‑krona programme and is actively analysing design, legal and technical implications — with increased emphasis on international coordination (digital euro developments) and offline/Climate impact considerations [1][5][12].
+  Why it matters: A central‑bank digital currency would change settlement flows, liquidity management, KYC requirements and the competitive landscape for wallets and payment services.
+  Strategic actions: Establish cross‑functional e‑krona readiness teams (IT, legal, payments, treasury), run vendor and standards assessments, and pilot wallet/settlement concepts to capture first‑mover advantages and reduce future migration costs [1][12].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Financial‑stability and operational resilience remain front‑of‑mind</span></div>
+  Summary: Riksbank materials and communications increasingly tie monetary policy judgement to financial‑stability considerations and payment system resilience; the public calendar and statistics give firms forward visibility on data releases and decisions [6][8][11].
+  Why it matters: Policy and market moves can be abrupt when stability risks crystallise; transparency helps firms prepare but also demands disciplined scenario planning.
+  Strategic actions: Elevate liquidity stress‑testing, run contingency playbooks for payment outages and settlement frictions, and synchronise board reporting with the Riksbank calendar to ensure timely decisions [6][8][11].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Energy sector: Q3 momentum and capital allocation shifts</span></div>
+  Summary: Energy and related stocks performed strongly in Q3 2025, and major regional players are adjusting capital allocation (buybacks, dividend posture, targeted capex) in response to commodity cycles and decarbonisation needs [9][10].
+  Why it matters: Energy price dynamics and capital allocation choices influence supplier costs, project finance availability and strategic partnerships across industrial sectors.
+  Strategic actions: Revisit capex timing and optionality for electrification projects, consider opportunistic capital‑return strategies if balance sheets permit, and stress‑test supply‑chain exposure to energy price swings [9][10].
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Labour market: pockets of wage pressure despite disinflation</span></div>
+  Summary: Falling headline inflation provides negotiating room for broader wage moderation, but structural skill shortages (tech, engineering, healthcare) can sustain localized wage inflation — a factor the Riksbank emphasises as a key inflation driver to watch [1][3].
+  Why it matters: Heterogenous wage dynamics mean blanket compensation freezes risk talent loss in scarce roles.
+  Strategic actions: Implement differentiated pay strategies: protect critical skills, expand reskilling/internal mobility, and link general increases to productivity and measurable performance.
+
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Exporters &amp; FX: relative inflation differentials matter</span></div>
+  Summary: Continued disinflation can support real exchange competitiveness over time, but outcomes depend on relative inflation and rate moves across trading partners; the Riksbank’s FX statistics and calendar are practical inputs for scenario work [11][9].
+  Strategic actions: Update FX hedge policies and pricing clauses, run competitor‑benchmark scenarios, and align export contracts with macro publication cycles.
+
+<div class="section-title">Practical near‑term priorities (90‑day checklist for leaders)</div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Run a liquidity/debt‑service stress test using Riksbank forecast bands [1][3].</span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Launch an e‑krona readiness sprint (vendor map, pilot concepts, legal gap analysis) [1][12].</span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Execute a payments resilience audit (end‑to‑end testing, fraud controls, backup rails) [6].</span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> Review compensation frameworks with segmented plans for scarce roles and productivity levers [1][3].</span></div>
+
+<div class="section-title">Source References (URLs used)</div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/engelska/2025/monetary-policy-report-september-2025.pdf" target="_blank">https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/engelska/2025/monetary-policy-report-september-2025.pdf</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://tradingeconomics.com/sweden/inflation-cpi/news/491230" target="_blank">https://tradingeconomics.com/sweden/inflation-cpi/news/491230</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.bloomberg.com/news/articles/2025-09-29/riksbank-minutes-signal-commitment-to-rates-at-current-levels" target="_blank">https://www.bloomberg.com/news/articles/2025-09-29/riksbank-minutes-signal-commitment-to-rates-at-current-levels</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb" target="_blank">https://www.riksbank.se/en-gb</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/payments--cash/e-krona/e-krona-reports/e-krona-project-report-1" target="_blank">https://www.riksbank.se/en-gb/payments--cash/e-krona/e-krona-reports/e-krona-project-report-1</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/press-and-published/calendar" target="_blank">https://www.riksbank.se/en-gb/press-and-published/calendar</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.forbes.com/sites/rrapier/2025/10/02/the-top-performing-energy-stocks-of-q3-2025" target="_blank">https://www.forbes.com/sites/rrapier/2025/10/02/the-top-performing-energy-stocks-of-q3-2025</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.morningstar.com/company-reports/1247522-equinor-earnings-payout-set-to-dip-in-2025-but-yield-remains-attractive-shares-undervalued" target="_blank">https://www.morningstar.com/company-reports/1247522-equinor-earnings-payout-set-to-dip-in-2025-but-yield-remains-attractive-shares-undervalued</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/statistics" target="_blank">https://www.riksbank.se/en-gb/statistics</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.riksbank.se/en-gb/payments--cash/e-krona" target="_blank">https://www.riksbank.se/en-gb/payments--cash/e-krona</a></span></div>
+<div class="bullet"><span class="bullet-dot">•</span><span class="bullet-text"> <a href="https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21" target="_blank">https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21</a></span></div>
+
+If you want, I can now: (A) produce a one‑page board briefing with owners and a detailed 90‑day plan; or (B) extend the digest to include company‑level headlines (Volvo, Ericsson, H&amp;M, Klarna, Northvolt) — I’ll run targeted searches and integrate the findings. Which should I do next?</div>
+                    </div>
+
+                    <div class="section sources white-bg">
+                        <h2>Sources</h2>
+                        <div class="source-item"><strong>1. Monetary Policy Report Sepember 2025</strong><br><a href="https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/engelska/2025/monetary-policy-report-september-2025.pdf" target="_blank">https://www.riksbank.se/globalassets/media/rapporter/ppr/penningpolitiska-rapporter-och-uppdateringar/engelska/2025/monetary-policy-report-september-2025.pdf</a></div>
+<div class="source-item"><strong>2. Sweden Inflation Slows to 0.9% in September</strong><br><a href="https://tradingeconomics.com/sweden/inflation-cpi/news/491230" target="_blank">https://tradingeconomics.com/sweden/inflation-cpi/news/491230</a></div>
+<div class="source-item"><strong>3. Riksbank Minutes Signal Commitment to Rates at Current... - Bloomberg</strong><br><a href="https://www.bloomberg.com/news/articles/2025-09-29/riksbank-minutes-signal-commitment-to-rates-at-current-levels" target="_blank">https://www.bloomberg.com/news/articles/2025-09-29/riksbank-minutes-signal-commitment-to-rates-at-current-levels</a></div>
+<div class="source-item"><strong>4. Start | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb" target="_blank">https://www.riksbank.se/en-gb</a></div>
+<div class="source-item"><strong>5. Program for Fourth PhD Workshop in Money and Finance</strong><br><a href="https://www.riksbank.se/globalassets/media/konferenser/2025/forth-phd-workshop-in-money-and-finance-april-29th-2025/program-for-fourth-phd-workshop-in-money-and-finance.pdf" target="_blank">https://www.riksbank.se/globalassets/media/konferenser/2025/forth-phd-workshop-in-money-and-finance-april-29th-2025/program-for-fourth-phd-workshop-in-money-and-finance.pdf</a></div>
+<div class="source-item"><strong>6. Payments Report 2025 - Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025</a></div>
+<div class="source-item"><strong>7. Startsida | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se" target="_blank">https://www.riksbank.se</a></div>
+<div class="source-item"><strong>8. The Riksbank's calendar | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/press-and-published/calendar" target="_blank">https://www.riksbank.se/en-gb/press-and-published/calendar</a></div>
+<div class="source-item"><strong>9. Sök räntor och valutakurser | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/sok-rantor-och-valutakurser" target="_blank">https://www.riksbank.se/sv/statistik/rantor-och-valutakurser/sok-rantor-och-valutakurser</a></div>
+<div class="source-item"><strong>10. The e-krona – state money in digital form | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/e-krona" target="_blank">https://www.riksbank.se/en-gb/payments--cash/e-krona</a></div>
+<div class="source-item"><strong>11. Statistics | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/statistics" target="_blank">https://www.riksbank.se/en-gb/statistics</a></div>
+<div class="source-item"><strong>12. Sweden’s banks 1772–1870: Institutions, data, and size*</strong><br><a href="https://www.riksbank.se/globalassets/media/forskning/monetar-statistik/volym-3/riksbanken_iii_ch2.pdf" target="_blank">https://www.riksbank.se/globalassets/media/forskning/monetar-statistik/volym-3/riksbanken_iii_ch2.pdf</a></div>
+<div class="source-item"><strong>13. Bäckström: The Swedish economy in the 21st century</strong><br><a href="https://archive.riksbank.se/en/Web-archive/Published/Speeches/1999/Backstrom-The-Swedish-economy-in-the-21st-century/index.html" target="_blank">https://archive.riksbank.se/en/Web-archive/Published/Speeches/1999/Backstrom-The-Swedish-economy-in-the-21st-century/index.html</a></div>
+<div class="source-item"><strong>14. The Top-Performing Energy Stocks Of Q3 2025 - Forbes</strong><br><a href="https://www.forbes.com/sites/rrapier/2025/10/02/the-top-performing-energy-stocks-of-q3-2025" target="_blank">https://www.forbes.com/sites/rrapier/2025/10/02/the-top-performing-energy-stocks-of-q3-2025</a></div>
+<div class="source-item"><strong>15. Equinor Earnings: Payout Set to Dip in 2025, but Yield Remains ...</strong><br><a href="https://www.morningstar.com/company-reports/1247522-equinor-earnings-payout-set-to-dip-in-2025-but-yield-remains-attractive-shares-undervalued" target="_blank">https://www.morningstar.com/company-reports/1247522-equinor-earnings-payout-set-to-dip-in-2025-but-yield-remains-attractive-shares-undervalued</a></div>
+<div class="source-item"><strong>16. Northvolt goes from Europe battery promise to crisis | Reuters</strong><br><a href="https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21" target="_blank">https://www.reuters.com/technology/northvolt-goes-europe-battery-promise-crisis-2024-11-21</a></div>
+<div class="source-item"><strong>17. Sveriges Riksbank The Riksbank's work on a central bank digital currency | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-/the-riksbanks-work-on-a-central-bank-digital-currency" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-/the-riksbanks-work-on-a-central-bank-digital-currency</a></div>
+<div class="source-item"><strong>18. Sveriges Riksbank Important to follow the development of a digital euro | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-/important-to-follow-the-development-of-a-digital-euro" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-/important-to-follow-the-development-of-a-digital-euro</a></div>
+<div class="source-item"><strong>19. Sveriges Riksbank The future of the digital euro affects work on the e-krona | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-" target="_blank">https://www.riksbank.se/en-gb/payments--cash/payments-in-sweden/payments-report-2025/the-riksbanks-work-and-recommendations/the-future-of-the-digital-euro-affects-work-on-the-e-krona-</a></div>
+<div class="source-item"><strong>20. IMF © 2025 International Monetary Fund IMF Country Report No. 25/79 SWEDEN</strong><br><a href="https://www.imf.org/-/media/Files/Publications/CR/2025/English/1sweea2025001-print-pdf.ashx" target="_blank">https://www.imf.org/-/media/Files/Publications/CR/2025/English/1sweea2025001-print-pdf.ashx</a></div>
+<div class="source-item"><strong>21. Sveriges Riksbank E-krona project, report 1 | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/payments--cash/e-krona/e-krona-reports/e-krona-project-report-1" target="_blank">https://www.riksbank.se/en-gb/payments--cash/e-krona/e-krona-reports/e-krona-project-report-1</a></div>
+<div class="source-item"><strong>22. Sveriges Riksbank Work on e-krona entering new phase | Sveriges Riksbank</strong><br><a href="https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/notices/2023/work-on-e-krona-entering-new-phase" target="_blank">https://www.riksbank.se/en-gb/press-and-published/notices-and-press-releases/notices/2023/work-on-e-krona-entering-new-phase</a></div>
+<div class="source-item"><strong>23. Morningstar Will the Riksbank Cut Interest Rates Again in 2025?</strong><br><a href="https://global.morningstar.com/en-nd/economy/will-riksbank-cut-interest-rates-again-2025" target="_blank">https://global.morningstar.com/en-nd/economy/will-riksbank-cut-interest-rates-again-2025</a></div>
+                    </div>
+
+                    <div class="footer">Generated by Differ • 5 searches • 911 words</div>
+                </div>
+            </body>
+            </html>

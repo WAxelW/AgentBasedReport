@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Monthly Business Digest - October 2025</title>
+    <style>
+        :root {
+            --differ-dark: #003732;
+            --differ-green: #328278;
+            --differ-blue: #0064AA;
+            --differ-red: #FA6464;
+            --differ-grey: #EBE6DC; /* light tan used on dark bg */
+        }
+
+        /* Basic layout */
+        html,body{height:100%}
+        body {
+            margin: 0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #000000;
+            color: var(--differ-grey);
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+        }
+        .container {
+            max-width: 760px;
+            margin: 0 auto;
+            padding: 24px 16px 48px;
+        }
+
+        /* Title */
+        .title {
+            margin: 0 0 12px 0;
+            font-weight: 600;
+            color: var(--differ-green);
+            font-size: 28px;
+        }
+
+        /* Sections & dividers */
+        .section {
+            border-bottom: 1px solid rgba(255,255,255,0.12); /* subtle white divider */
+        }
+        /* Sections with white background (meta, key developments, etc.) */
+        .section.white-bg {
+            background: #ffffff;
+            color: #333333;
+            border-radius: 8px;
+            padding: 12px 16px;
+            border-bottom: none; /* skip dividing line for white-bg sections */
+        }
+        .section.white-bg .content,
+        .section.white-bg .bullet-text,
+        .section.white-bg .meta-item {
+            color: #333333;
+        }
+        .section.white-bg .bullet-dot { background: var(--differ-green); }
+        .section.white-bg .content a { color: var(--differ-blue); }
+
+        /* Meta grid styling (Period, Generated, Sources, Word Count) */
+        .meta-grid {
+            display: grid;
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: 10px;
+            align-items: start;
+        }
+        .meta-item span {
+            display: block;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: .04em;
+            color: #000000; /* black labels on white */
+            margin-bottom: 2px;
+            font-weight: 700;
+        }
+        .meta-item {
+            color: #666666; /* grey answers */
+            font-size: 14px;
+            margin: 0;
+        }
+            /* Decorative white lines for specific section */
+        .highlighted-title {
+          border-top: 1px solid white;
+          border-bottom: 1px solid white;
+          padding: 8px 0;
+          font-weight: 700;
+          color: var(--differ-green);
+        }
+
+        /* Content & headings */
+        .content {
+            white-space: pre-wrap;
+            line-height: 1.45;
+            color: var(--differ-grey);
+            font-size: 15px;
+        }
+        .section-title {
+            font-weight: 700;
+            color: var(--differ-green); /* unified green headers by default */
+            margin: 0 0 2px 0; /* minimal gap to following content */
+            font-size: 16px;
+            line-height: 1.2;
+            margin-bottom: 0px;
+        }
+        .section-title.red {
+            color: var(--differ-red); /* special red title */
+            margin-bottom: 10px;
+        }
+
+        /* Bullets - tighter spacing + larger circular bullet */
+        .bullet {
+            margin: 4px 0;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+        }
+        .bullet-dot {
+            height: 8px;
+            background: var(--differ-green);
+            border-radius: 50%;
+            display: inline-block;
+            flex: 0 0 8px;
+            margin-top: 6px; /* visually align with first text line */
+            font-size: 0;    /* hide any content in the span */
+        }
+        .bullet-text {
+            color: var(--differ-grey);
+            line-height: 1.3;
+            font-size: 15px;
+            margin: 0;
+            margin-bottom: 5px;
+        }
+
+        /* Links */
+        .content a { color: var(--differ-blue); text-decoration: none; }
+        .content a:hover { text-decoration: underline; }
+
+        /* KPI boxes (two per row) */
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            margin-top: 8px;
+        }
+        .kpi-box {
+            background: var(--differ-green);
+            color: #ffffff;
+            padding: 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            line-height: 1.4;
+        }
+        /* Make last lonely box span whole width for balance */
+        .kpi-grid .kpi-box:nth-last-child(1):nth-child(odd) {
+            grid-column: 1 / -1;
+        }
+
+        /* Sources headings */
+        .sources h2 {
+            margin: 0 0 6px 0;
+            color: var(--differ-green);
+            font-size: 16px;
+        }
+        .source-item { padding: 6px 0; color: var(--differ-grey); }
+        .source-item a { color: var(--differ-blue); text-decoration: none; word-break: break-all; }
+
+        /* Footer */
+        .footer {
+            background: var(--differ-green);
+            color: #ffffff;
+            text-align: center;
+            font-size: 12px;
+            margin-top: 40px;
+            padding: 12px;
+            border-radius: 6px;
+        }
+
+        /* Responsive */
+        @media (max-width: 680px) {
+            .meta-grid { grid-template-columns: 1fr; }
+            .kpi-grid { grid-template-columns: 1fr; }
+        }
+
+        @media (max-width: 480px) {
+            .title { font-size: 22px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="title">[title]</h1>
+
+        <!-- Meta Section (white background) -->
+        <div class="section white-bg meta">
+            <div class="meta-grid">
+                <div class="meta-item"><span>Period</span>[period]</div>
+                <div class="meta-item"><span>Generated</span>[date generated]</div>
+                <div class="meta-item"><span>Sources</span>[nr of sources]</div>
+                <div class="meta-item"><span>Word Count</span>[nr of words]</div>
+            </div>
+        </div>
+
+        <!-- Intro + warning (dark section) -->
+        <div class="section">
+            <div class="content">
+                <div class="section-title red">OBS!</div>Denna rapport är byggd av AI baserat på nyheter från perioden [period].
+                <div class="section-title">Executive summary</div>[executive summary]
+            </div>
+        </div>
+
+        <!-- Huvudbody — intressanta utvecklingar (dark) -->
+        <div class="section">
+            <div class="content">
+                <div class="section-title">Main findings</div><div class="bullet"><span class="bullet-dot"></span><span class="bullet-text">[insert bullet points iteratively]</span></div>
+            </div>
+        </div>
+
+        <!-- Strategic implications — konkreta rekommendationer -->
+        <div class="section">
+            <div class="content">
+                <div class="section-title">Strategic implications</div>
+                <div style="margin-bottom:6px;">1)[implication n]</div><div class="bullet"><span class="bullet-dot"></span><span class="bullet-text">[implication text]</span></div>
+            </div>
+        </div>
+
+        <!-- KPI boxes -->
+        <div class="section">
+            <div class="content">
+                <div class="section-title">Mätbara KPI-förslag</div>
+                <div class="kpi-grid">
+                    <div class="kpi-box">[insert KPIs iteratively]</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Next steps from Differ -->
+        <div class="section">
+            <div class="content">
+                <div class="section-title">Nästa steg från Differ</div><div class="bullet"><span class="bullet-dot"></span><span class="bullet-text">Be oss producera en prioriterad 1-sidig handlingsplan för ert företag baserat på ovan</span></div>
+                <div style="margin-top:8px;">Behöver du att vi hjälper till att formulera exakta sökfraser eller samlar källor åt dig (arbetssteg där du klistrar in sökresultat)? Vi stöttar gärna — på Differ rekommenderar vi verifiering innan beslut.
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer (green background) -->
+        <div class="footer">[meta info]</div>
+    </div>
+</body>
+</html>
