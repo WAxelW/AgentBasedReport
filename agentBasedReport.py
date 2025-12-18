@@ -20,7 +20,7 @@ import json
 # OpenAI Model Configuration
 # Change this variable to switch between different OpenAI models
 OPENAI_MODEL = "gpt-5-mini"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 SEARCH_CONFIG = {
     "max_searches": 10,  # Increased for more comprehensive research
