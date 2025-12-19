@@ -28,9 +28,9 @@ if not TAVILY_API_KEY:
     raise ValueError("Missing env: TAVILY_API_KEY")
 
 SEARCH_CONFIG = {
-    "max_iterations": 10,
-    "min_valid_sources": 15,
-    "max_results_per_search": 5, # Tavily gives high quality, so we need fewer per batch
+    "max_iterations": 15,
+    "min_valid_sources": 20,
+    "max_results_per_search": 3, # Tavily gives high quality, so we need fewer per batch
 }
 
 OUTPUT_CONFIG = {
@@ -47,7 +47,7 @@ RESEARCHER_PROMPT = """
 You are an expert Business Research Analyst.
 
 Your task is to generate short, effective search queries to find 
-RECENT and RELEVANT information on the user’s topic.
+RECENT results within the specified persiod and RELEVANT information on the user’s topic.
 
 RULES:
 1. Keep queries short: 2–6 keywords.
@@ -55,6 +55,7 @@ RULES:
 3. Include geographic modifiers ONLY when useful ("Nordics", "Sweden", "Finland", etc.).
 4. NEVER invent facts. Only generate search queries.
 5. After each iteration, refine the query based on editor feedback.
+6. Search for results within the user specified period.
 
 COMMAND FORMAT:
 SEARCH: your query
@@ -67,8 +68,8 @@ You are the quality assurance officer.
 Your task is to evaluate search results and decide which are VALID signals.
 
 A result is VALID if:
-1. It is PUBLISHED within the last 30 days.
-2. It is RELEVANT to the topic current topic.
+1. It is PUBLISHED within the last 30 days of the specified period.
+2. It is RELEVANT to the current topic.
 3. The content has implications for the Nordics, more specifically Sweden.
 4. Headlines OR descriptions may indicate relevance. Partial signals are allowed.
 5. Reject only if clearly irrelevant (e.g., food recipes, sports, politics, unrelated tech etc.).
@@ -107,20 +108,21 @@ Your task is to take the provided Report Text and Sources and convert them into 
 stunning, responsive HTML document that matches the design of https://www.differ.se/
 
 DESIGN GUIDELINES (Differ Aesthetic):
-1.  **Typography**: Use 'Inter', 'Helvetica Neue', or system-ui. Clean, crisp, high readability.
-2.  **Colors**: 
+1.  Typography: Use 'Inter', 'Helvetica Neue', or system-ui. Clean, crisp, high readability.
+2.  Colors: 
     - Background: White (#FFFFFF) or very light grey (#F9F9F9).
     - Text: Dark Grey/Black (#1A1A1A).
     - Accents: Use a deep distinct Teal/Green (e.g., #004D40) or Differ's signature muted green/grey for headers.
-3.  **Layout**:
-    - **Header**: Minimalist. Text logo "Differ" on the left.
-    - **Container**: Max-width 900px, centered, ample whitespace (padding).
-    - **Headings**: Big, bold, uppercase or heavy weight (font-weight: 700+).
-    - **Cards**: Group key themes into subtle "cards" with thin borders or soft shadows.
-4.  **Footer**: 
+3.  Layout:
+    - Header: Minimalist. Text logo "Differ" on the left.
+    - Container: Max-width 900px, centered, ample whitespace (padding).
+    - Headings: Big, bold, uppercase or heavy weight (font-weight: 700+).
+    - Cards: Group key themes into subtle "cards" with thin borders or soft shadows.
+4.  Footer: 
     - Simple grey background.
-    - Text: "Regeringsgatan 67, 111 56 Stockholm | info@differ.se".
-5.  **Sources**: A clean, numbered list at the bottom, styled visibly but unobtrusively. The sources should also be clickable, both in the reference list at the end but also throughout the text.
+    - Text: "Regeringsgatan 67, 111 56 Stockholm | https://www.differ.se/".
+5.  Sources: A clean, numbered list at the bottom, styled visibly but unobtrusively. The sources should also be clickable, both in the reference list at the end but also throughout the text.
+6.  Don't include anything about a recepient or sender. The topic should be reflected by the main title only.
 
 INPUT: A raw report text + list of sources.
 OUTPUT: Valid, standalone HTML5 code. Do not use Markdown fences.
@@ -255,8 +257,10 @@ class Generator:
         researcher = self.get_model(RESEARCHER_PROMPT)
         editor = self.get_model(EDITOR_PROMPT, json_mode=True)
 
+        print(f"Initializing research cycle... topic: {topic}, period: {period}")
+
         # Kickstart conversation
-        self.researcher_log.append({"role": "user", "content": f"Topic: {topic}. Begin with one SEARCH query."})
+        self.researcher_log.append({"role": "user", "content": f"Topic: {topic}. Period: {period}. Begin with one SEARCH query."})
         response = researcher.generate_content(self.to_history(self.researcher_log))
         self.researcher_log.append({"role": "model", "content": response.text})
 
@@ -298,6 +302,7 @@ class Generator:
             # EDITOR EVALUATION
             editor_input = {
                 "topic": topic,
+                "period": period,
                 "results": [
                     {
                         "id": i,
@@ -408,7 +413,7 @@ def main():
     gen = Generator()
     
     # 1. Research Loop
-    gen.run_research_cycle(topic, period="This Month")
+    gen.run_research_cycle(topic, period = f"{datetime.date.today().strftime('%B %Y')}")
     
     if not gen.validated_results:
         print("❌ No valid sources found.")
